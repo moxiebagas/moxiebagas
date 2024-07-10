@@ -2,6 +2,7 @@
 
 ![Hits](https://camo.githubusercontent.com/e5708cf3d76124109b7190aa9f40f64467016ce658332ca8e1a0f40bf2760769/68747470733a2f2f686974732e73682f6769746875622e636f6d2f6d6f78696562616761732e7376673f6c6162656c3d50726f66696c65253230566965777326636f6c6f723d303037656336)
 
+# 🧮 GitHub statistics
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moxiebagas)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=moxiebagas&show_icons=true&theme=radical)
 
