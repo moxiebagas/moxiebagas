@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![](https://komarev.com/ghpvc/?moxiebagas=moxiebagas)](https://hits.sh/github.com/moxiebagas.svg?label=Profile%20Views&color=007ec6)
+![](https://komarev.com/ghpvc/?username=moxiebagas)
 <!--
 **moxiebagas/moxiebagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
