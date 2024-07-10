@@ -32,7 +32,7 @@ My name is **Moxie!** 👨🏻‍💻
 
 # 🧮 GitHub statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=moxiebagas&show_icons=true&theme=radical&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=moxiebagas&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moxiebagas&langs_count=8&theme=radical&layout=compact)
 
 <!--
