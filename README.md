@@ -4,8 +4,8 @@
 
 # 🧮 GitHub statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=moxiebagas&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moxiebagas&hide_title=true&langs_count=8&theme=radical&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=moxiebagas&show_icons=true&theme=radical&hide_title=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moxiebagas&langs_count=8&theme=radical&layout=compact)
 
 <!--
 [![Hits](https://hits.sh/github.com/moxiebagas.svg?label=Profile%20Views&color=007ec6)](https://hits.sh/github.com/moxiebagas/)
