@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=moxiebagas)
+[![Hits](https://hits.sh/github.com/moxiebagas.svg?label=Profile%20Views&color=007ec6)](https://hits.sh/github.com/moxiebagas/)
 <!--
+![](https://komarev.com/ghpvc/?username=moxiebagas)
 **moxiebagas/moxiebagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
