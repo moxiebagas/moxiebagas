@@ -2,6 +2,9 @@
 
 ![Hits](https://camo.githubusercontent.com/e5708cf3d76124109b7190aa9f40f64467016ce658332ca8e1a0f40bf2760769/68747470733a2f2f686974732e73682f6769746875622e636f6d2f6d6f78696562616761732e7376673f6c6162656c3d50726f66696c65253230566965777326636f6c6f723d303037656336)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moxiebagas)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moxiebagas)](https://github.com/moxiebagas/github-readme-stats)
+
 <!--
 [![Hits](https://hits.sh/github.com/moxiebagas.svg?label=Profile%20Views&color=007ec6)](https://hits.sh/github.com/moxiebagas/)
 ![](https://komarev.com/ghpvc/?username=moxiebagas)
