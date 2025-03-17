@@ -3,7 +3,7 @@
 My name is **Moxie!** 👨🏻‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muqsibagas)
-[![Website](https://img.shields.io/badge/Website-Visit-blue?logo=globe)](https://moxiebagas.vercel.app)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?logo=globe)](https://moxiebagas.web.id)
 
 [![Muqsi Bagas Eka Putra profile views](https://u8views.com/api/v1/github/profiles/120154873/views/day-week-month-total-count.svg)](https://u8views.com/github/moxiebagas)
 
