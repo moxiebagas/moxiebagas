@@ -33,8 +33,8 @@ My name is **Moxie!** 👨🏻‍💻
 
 # 🧮 GitHub statistics
 
-![GitHub Stats](https://github-readme-stats-moxiebagas1s-projects.vercel.app/api/?username=moxiebagas&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
 ![Most Used Languages](https://github-readme-stats-moxiebagas1s-projects.vercel.app/api/top-langs/?username=moxiebagas&langs_count=8&theme=radical&layout=compact)
+![GitHub Stats](https://github-readme-stats-moxiebagas1s-projects.vercel.app/api/?username=moxiebagas&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
 
 <!--
 **moxiebagas/moxiebagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
